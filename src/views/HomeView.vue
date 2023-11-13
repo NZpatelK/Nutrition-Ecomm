@@ -17,7 +17,7 @@
 
       <div class="imgContent slide-in-elliptic-right-bck">
         <img class="animImg choc" src="../assets/chcoc.png" alt="" />
-        <img class="animImg lollie" src="../assets/image-removebg-preview (1).png" alt="" />
+        <img class="animImg lollie" src="../assets/lollies.png" alt="" />
         <img class="prod" src="../assets/pepperImg.png" alt="" />
       </div>
     </section>
