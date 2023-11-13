@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./index-3bbbaa09.js";const s={},n={class:"prodSection"},_=c("h1",null,"About",-1),a=[_];function r(i,d){return o(),t("section",n,a)}const f=e(s,[["render",r]]);export{f as default};
